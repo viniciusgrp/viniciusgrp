@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<ul> 
+  <li>📚 - Atualmente studando: React e TypeScript</li>
+
 <!--
 **viniciusgrp/viniciusgrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
