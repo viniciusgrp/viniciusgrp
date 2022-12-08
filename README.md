@@ -4,7 +4,7 @@ Olá, sou um desenvolvedor front-end júnior formado pela Kenzie Academy Brasil,
 
 Skills: TS / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning Node JS / React Native / SASS 
+- 🌱 I’m currently learning Node JS / React Native / postgreSQL / express
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniciusgrp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/viniciusgrp/)  
