@@ -2,9 +2,9 @@
 #### Desenvolvedor Front-End
 Olá, sou um desenvolvedor front-end júnior formado pela Kenzie Academy Brasil, cursando agora o módulo de back-end e análise e desenvolvimento de sistemas.
 
-Skills: TS / REACT / JS / HTML / CSS
+Skills: TypeScript / React / JavaScript / Node.Js / Express.Js / postgreSQL / HTML / CSS
 
-- 🌱 I’m currently learning Node JS / React Native / postgreSQL / express
+- 🌱 I’m currently learning Python / Django
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viniciusgrp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/viniciusgrp/)  
