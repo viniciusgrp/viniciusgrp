@@ -1,5 +1,5 @@
 ### Hi there 👋, Bem vindo ao meu perfil !
-#### Desenvolvedor Front-End
+#### Desenvolvedor
 Olá, sou um Desenvolvedor Full Stack, com foco em TypeScript, React, Node e Python.
 
 Skills: TypeScript / React / Redux / Context / TypeScript / JavaScript / Node.Js / Express.Js / Nest / Python / Django / FastAPI / Swagger / PostgreSQL / MySQL / MongoDB / Firebase / HTML / CSS
